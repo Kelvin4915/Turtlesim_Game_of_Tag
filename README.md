@@ -1,6 +1,6 @@
 # Turtlesim Game of Tag
 
-<img src="https://github.com/rishabh-bavithran/Turtlesim-Catch-them-all-Game/assets/145865695/a454dade-643a-4371-a00a-d29085570e97" alt="Untitled design" width="400"/>
+![Turtlesim_Game_of_Tag](https://github.com/Kelvin4915/Turtlesim_Game_of_Tag/assets/134540002/d7bc8c3e-ed37-49e0-9b8f-3b2b9729ac7d)
 
 ## Overview
 
@@ -44,5 +44,6 @@ The project includes custom message and service interfaces:
 
 The project includes a launch file for easy deployment of all 3 nodes
 
-![Screenshot from 2024-06-29 16-39-54](https://github.com/rishabh-bavithran/Turtlesim-Catch-them-all-Game/assets/145865695/fc410410-42ee-4a0c-9ab4-9cb3b0d5c8b0)
+![Turtlesim_Game_of_Tag](https://github.com/Kelvin4915/Turtlesim_Game_of_Tag/assets/134540002/28bf1db4-e07d-4698-b64b-ebe9fefcc133)
+
 
